@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="40b08b08-3628-47bc-bc31-13937bc6ecf5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apache-maven-3.8.3\maven_repository" />
+        <option name="pluginUpdatePolicy" value="DO_NOT_UPDATE" />
+        <option name="userSettingsFile" value="D:\maven\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="2EStwyJyWLnJ15WX4Fj8WthQ1Yv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/tools" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="onionMessage" />
+      <recent name="encryption" />
+      <recent name="client" />
+      <recent name="server" />
+      <recent name="node" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\sources\graduate\other_work\zy\0908\experiment\AMHLPlus\src\main\java\tools" />
+      <recent name="D:\sources\graduate\other_work\zy\0908\experiment\AMHLPlus\src\test\java\onionMessage" />
+      <recent name="D:\sources\graduate\other_work\zy\0908\experiment\AMHLPlus\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.OnionMessageTestSingle.onionMessageTest">
+    <configuration name="OnionMessageTestLock.onionMessageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AMHLPlus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="onionMessage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="onionMessage" />
+      <option name="MAIN_CLASS_NAME" value="onionMessage.OnionMessageTestLock" />
+      <option name="METHOD_NAME" value="onionMessageTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OnionMessageTestSetup.onionMessageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AMHLPlus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="onionMessage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="onionMessage" />
+      <option name="MAIN_CLASS_NAME" value="onionMessage.OnionMessageTestSetup" />
+      <option name="METHOD_NAME" value="onionMessageTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OnionMessageTestSingle.onionMessageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AMHLPlus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="onionMessage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="onionMessage" />
+      <option name="MAIN_CLASS_NAME" value="onionMessage.OnionMessageTestSingle" />
+      <option name="METHOD_NAME" value="onionMessageTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OnionMessageTestUnlock.onionMessageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AMHLPlus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="onionMessage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="onionMessage" />
+      <option name="MAIN_CLASS_NAME" value="onionMessage.OnionMessageTestUnlock" />
+      <option name="METHOD_NAME" value="onionMessageTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OnionMessageTest.onionMessageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AMHLPlus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="onionMessage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="onionMessage" />
+      <option name="MAIN_CLASS_NAME" value="onionMessage.OnionMessageTest" />
+      <option name="METHOD_NAME" value="onionMessageTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.OnionMessageTestSingle.onionMessageTest" />
+        <item itemvalue="JUnit.OnionMessageTestUnlock.onionMessageTest" />
+        <item itemvalue="JUnit.OnionMessageTestLock.onionMessageTest" />
+        <item itemvalue="JUnit.OnionMessageTestSetup.onionMessageTest" />
+        <item itemvalue="JUnit.OnionMessageTest.onionMessageTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40b08b08-3628-47bc-bc31-13937bc6ecf5" name="Default Changelist" comment="" />
+      <created>1662601055836</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662601055836</updated>
+      <workItem from="1662601064407" duration="14009000" />
+      <workItem from="1662685405827" duration="2410000" />
+      <workItem from="1662972302168" duration="13000" />
+      <workItem from="1663206255134" duration="7157000" />
+      <workItem from="1663483133060" duration="1619000" />
+      <workItem from="1663500500320" duration="180000" />
+      <workItem from="1663504608913" duration="1349000" />
+      <workItem from="1663513622918" duration="2329000" />
+      <workItem from="1663549258683" duration="10655000" />
+      <workItem from="1663583896075" duration="5176000" />
+      <workItem from="1663635553444" duration="8945000" />
+      <workItem from="1663661160038" duration="8810000" />
+      <workItem from="1664324444738" duration="977000" />
+      <workItem from="1664416478360" duration="13724000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1584" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1662685873778">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1584" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1662685873778" />
+    <state x="-1180" y="275" key="FileChooserDialogImpl" timestamp="1662607079362">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1180" y="275" key="FileChooserDialogImpl/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1662607079362" />
+    <state width="1493" height="225" key="GridCell.Tab.0.bottom" timestamp="1664442754468">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="318" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1663682112565" />
+    <state width="1493" height="122" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1663652099737" />
+    <state width="1493" height="225" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1664442754468" />
+    <state width="1493" height="225" key="GridCell.Tab.0.center" timestamp="1664442754468">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="318" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1663682112565" />
+    <state width="1493" height="122" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1663652099737" />
+    <state width="1493" height="225" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1664442754468" />
+    <state width="1493" height="225" key="GridCell.Tab.0.left" timestamp="1664442754468">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="318" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1663682112565" />
+    <state width="1493" height="122" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1663652099737" />
+    <state width="1493" height="225" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1664442754468" />
+    <state width="1493" height="225" key="GridCell.Tab.0.right" timestamp="1664442754468">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="318" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1663682112565" />
+    <state width="1493" height="122" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1663652099737" />
+    <state width="1493" height="225" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1664442754468" />
+    <state width="1493" height="295" key="GridCell.Tab.1.bottom" timestamp="1664431261669">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="382" key="GridCell.Tab.1.bottom/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1663682112557" />
+    <state width="1493" height="122" key="GridCell.Tab.1.bottom/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1663652099642" />
+    <state width="1493" height="295" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1664431261669" />
+    <state width="1493" height="295" key="GridCell.Tab.1.center" timestamp="1664431261669">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="382" key="GridCell.Tab.1.center/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1663682112557" />
+    <state width="1493" height="122" key="GridCell.Tab.1.center/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1663652099642" />
+    <state width="1493" height="295" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1664431261669" />
+    <state width="1493" height="295" key="GridCell.Tab.1.left" timestamp="1664431261669">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="382" key="GridCell.Tab.1.left/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1663682112556" />
+    <state width="1493" height="122" key="GridCell.Tab.1.left/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1663652099642" />
+    <state width="1493" height="295" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1664431261669" />
+    <state width="1493" height="295" key="GridCell.Tab.1.right" timestamp="1664431261669">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="382" key="GridCell.Tab.1.right/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1663682112557" />
+    <state width="1493" height="122" key="GridCell.Tab.1.right/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1663652099642" />
+    <state width="1493" height="295" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1664431261669" />
+    <state x="521" y="98" key="Maven.ArtifactSearchDialog" timestamp="1664432405937">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="521" y="98" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1664432405937" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1663663896672">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="968" height="528" key="XDebugger.FullValuePopup/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1663663896672" />
+    <state x="-1828" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1663553259537">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1828" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1663553259537" />
+    <state x="512" y="273" key="com.intellij.ide.util.TipDialog" timestamp="1664324505039">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1280" y="344" key="com.intellij.ide.util.TipDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1663661215915" />
+    <state x="512" y="273" key="com.intellij.ide.util.TipDialog/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1663636213092" />
+    <state x="512" y="273" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1664324505039" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/node/RelayNode.java</url>
+          <line>168</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/encryption/RSAEncryptionTest.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/server/ServerNode.java</url>
+          <line>302</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/encryption/DLPTest.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/client/ClientNode.java</url>
+          <line>306</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/client/ClientNode.java</url>
+          <line>171</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/onionMessage/OnionMessageTest.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
