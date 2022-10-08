@@ -1,0 +1,29 @@
+[package]
+name = "bn"
+version = "0.4.4"
+authors = ["Sean Bowe <ewillbefull@gmail.com>"]
+description = "Pairing cryptography with the Barreto-Naehrig curve"
+keywords = ["pairing","crypto","cryptography"]
+readme = "README.md"
+homepage = "https://github.com/zcash/bn"
+repository = "https://github.com/zcash/bn"
+license = "MIT OR Apache-2.0"
+
+[features]
+default = ["rustc-serialize"]
+
+[[bench]]
+name = "api"
+
+[dependencies]
+rand = { version = "0.5", features = ["i128_support"] }
+rustc-serialize = { version = "0.3", optional = true }
+byteorder = { version = "1.0", features = ["i128"] }
+crunchy = "0.2.1"
+lazy_static = "*"
+rustc-hex = "2"
+
+[dev-dependencies.bincode]
+version = "0.6"
+default-features = false
+features = ["rustc-serialize"]

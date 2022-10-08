@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="99afdb3d-1440-4f8c-a47e-44929c0ee985" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apache-maven-3.8.3\maven_repository" />
+        <option name="pluginUpdatePolicy" value="DO_NOT_UPDATE" />
+        <option name="userSettingsFile" value="D:\maven\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="2ET69zH5vtmhIkHt0TyNndwj62f" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/onionMessage" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="onionMessage" />
+      <recent name="tools" />
+      <recent name="encryption" />
+      <recent name="web3j" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\sources\graduate\other_work\zy\0908\experiment\EAMHLPlus\src\test\java\onionMessage" />
+      <recent name="D:\sources\graduate\other_work\zy\0908\experiment\EAMHLPlus\src\main\java\tools" />
+      <recent name="D:\sources\graduate\other_work\zy\0908\experiment\EAMHLPlus\src\main\java\node" />
+      <recent name="D:\sources\graduate\other_work\zy\0908\experiment\EAMHLPlus\src\main\java\client" />
+      <recent name="D:\sources\graduate\other_work\zy\0908\experiment\EAMHLPlus\src\main\java\server" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.OnionMessageTestSingle.onionMessageTest">
+    <configuration name="OnionMessageTestLock.onionMessageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EAMHLPlus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="onionMessage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="onionMessage" />
+      <option name="MAIN_CLASS_NAME" value="onionMessage.OnionMessageTestLock" />
+      <option name="METHOD_NAME" value="onionMessageTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OnionMessageTestSetup.onionMessageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EAMHLPlus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="onionMessage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="onionMessage" />
+      <option name="MAIN_CLASS_NAME" value="onionMessage.OnionMessageTestSetup" />
+      <option name="METHOD_NAME" value="onionMessageTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OnionMessageTestSingle.onionMessageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EAMHLPlus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="onionMessage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="onionMessage" />
+      <option name="MAIN_CLASS_NAME" value="onionMessage.OnionMessageTestSingle" />
+      <option name="METHOD_NAME" value="onionMessageTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OnionMessageTestUnlock.onionMessageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EAMHLPlus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="onionMessage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="onionMessage" />
+      <option name="MAIN_CLASS_NAME" value="onionMessage.OnionMessageTestUnlock" />
+      <option name="METHOD_NAME" value="onionMessageTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OnionMessageTest.onionMessageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EAMHLPlus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="onionMessage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="onionMessage" />
+      <option name="MAIN_CLASS_NAME" value="onionMessage.OnionMessageTest" />
+      <option name="METHOD_NAME" value="onionMessageTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.OnionMessageTestSingle.onionMessageTest" />
+        <item itemvalue="JUnit.OnionMessageTestUnlock.onionMessageTest" />
+        <item itemvalue="JUnit.OnionMessageTestLock.onionMessageTest" />
+        <item itemvalue="JUnit.OnionMessageTestSetup.onionMessageTest" />
+        <item itemvalue="JUnit.OnionMessageTest.onionMessageTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99afdb3d-1440-4f8c-a47e-44929c0ee985" name="Default Changelist" comment="" />
+      <created>1662607079455</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662607079455</updated>
+      <workItem from="1662607084450" duration="11379000" />
+      <workItem from="1662685266473" duration="3361000" />
+      <workItem from="1663467006388" duration="609000" />
+      <workItem from="1663487013941" duration="3033000" />
+      <workItem from="1664324527783" duration="2394000" />
+      <workItem from="1664356922184" duration="7714000" />
+      <workItem from="1664374047758" duration="716000" />
+      <workItem from="1664405583539" duration="13201000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="445" y="153" key="FileChooserDialogImpl" timestamp="1662607225438">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="445" y="153" key="FileChooserDialogImpl/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1662607225438" />
+    <state width="1493" height="291" key="GridCell.Tab.0.bottom" timestamp="1664454406946">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="314" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1662641819707" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1662607234170" />
+    <state width="1493" height="291" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1664454406946" />
+    <state width="1493" height="291" key="GridCell.Tab.0.center" timestamp="1664454406945">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="314" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1662641819707" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1662607234169" />
+    <state width="1493" height="291" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1664454406945" />
+    <state width="1493" height="291" key="GridCell.Tab.0.left" timestamp="1664454406945">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="314" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1662641819707" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1662607234169" />
+    <state width="1493" height="291" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1664454406945" />
+    <state width="1493" height="291" key="GridCell.Tab.0.right" timestamp="1664454406945">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="314" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1662641819707" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1662607234169" />
+    <state width="1493" height="291" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1664454406945" />
+    <state width="1493" height="250" key="GridCell.Tab.1.bottom" timestamp="1664453643200">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="250" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1664453643200" />
+    <state width="1493" height="250" key="GridCell.Tab.1.center" timestamp="1664453643199">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="250" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1664453643199" />
+    <state width="1493" height="250" key="GridCell.Tab.1.left" timestamp="1664453643199">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="250" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1664453643199" />
+    <state width="1493" height="250" key="GridCell.Tab.1.right" timestamp="1664453643199">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="250" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1664453643199" />
+    <state x="333" y="86" key="Maven.ArtifactSearchDialog" timestamp="1664366813207">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="333" y="86" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1664366813207" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1662607228155">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1662607228155" />
+    <state x="512" y="273" key="com.intellij.ide.util.TipDialog" timestamp="1664405585691">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1280" y="344" key="com.intellij.ide.util.TipDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1663468830590" />
+    <state x="512" y="273" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1664405585691" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/onionMessage/OnionMessageTest.java</url>
+          <line>97</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/onionMessage/OnionMessageTest.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

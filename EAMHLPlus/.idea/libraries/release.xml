@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="release">
+    <CLASSES />
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/bn128-jni/native/target/release" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>
